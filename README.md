@@ -1,3 +1,5 @@
+
+
 # Filmes
 
 ## Endpoints
@@ -14,3 +16,8 @@ Buscar por ID: localhost:8080/api/filmes/detalhes/1
     "descricao": "Filme infantil",
     "image": "image.png"
 }
+## Critérios de Aceite
+
+[Critérios de aceite.pdf](https://github.com/sumaeta/Filmes/files/8791581/Criterios.de.aceite.pdf)
+
+## Diagrama de Classes
