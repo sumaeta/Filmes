@@ -1,8 +1,10 @@
 package com.example.demo.dto;
 
+import org.springframework.hateoas.RepresentationModel;
+
 import com.example.demo.modal.Filme;
 
-public class FilmeDTO {
+public class FilmeDTO extends RepresentationModel<Filme> {
 	
 	private String autor;
 	private String titulo;
