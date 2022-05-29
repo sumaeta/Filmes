@@ -21,3 +21,4 @@ Buscar por ID: localhost:8080/api/filmes/detalhes/1
 [Critérios de aceite.pdf](https://github.com/sumaeta/Filmes/files/8791581/Criterios.de.aceite.pdf)
 
 ## Diagrama de Classes
+[Filme.pdf](https://github.com/sumaeta/Filmes/files/8793613/Filme.pdf)
